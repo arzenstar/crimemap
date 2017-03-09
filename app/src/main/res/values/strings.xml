@@ -80,4 +80,7 @@
     <string name="pref_ringtone_silent">Silent</string>
 
     <string name="pref_title_vibrate">Vibrate</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyAGuVAkyxhd7YJDD_RrC3Csto6XBbUXwAk
+    </string>
 </resources>
